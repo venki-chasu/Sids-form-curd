@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": "AEXADES",
+      "product_name": "Skim Milk",
+      "price": 39.81,
+      "image_url": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_304/NI_CATALOG/IMAGES/CIW/2024/10/10/693bf3aa-ad27-416a-9a41-ba3ab74f24b9_15978.png",
+      "energy": "880kcal",
+      "protein": "3.7g",
+      "fat": "6.0g",
+      "nutritional_info": "Sid’s Farm’s Skimmed Milk is free from dietary fat and is perfect if you are calorie-conscious and looking to lose some weight. Unlike whole milk, it is lighter on your stomach and thinner in consistency. It has slightly more calcium and protein when compared to whole milk."
+    },
+    {
+      "id": "DEHAASD",
+      "product_name": "Buffalo Milk",
+      "price": 39.81,
+      "image_url": "https://cdn.zeptonow.com/production///tr:w-600,ar-818-901,pr-true,f-auto,q-80/cms/product_variant/610a894d-48c7-4b87-b37e-e9baafcb4063.png",
+      "energy": "880kcal",
+      "protein": "3.7g",
+      "fat": "6.0g",
+      "nutritional_info": "Sid’s Farm’s Buffalo milk has more protein, fat, nutrients and lactose. Consuming milk with higher protein content increases your feeling of fullness. This may help reduce food intake throughout the day and may help you control your weight and body fat."
+    },
+    {
+      "id": "SESGESW",
+      "product_name": "Cow Milk",
+      "price": 39.81,
+      "image_url": "https://www.bigbasket.com/media/uploads/p/xl/40163721-2_3-sids-farm-natural-buffalo-milk.jpg",
+      "energy": "880kcal",
+      "protein": "3.7g",
+      "fat": "6.0g",
+      "nutritional_info": "At Sid’s Farm’s, we give the best care to our cows and feed them with home-grown fodder for the best quality milk possible. Cow milk is a good source of protein and calcium, as well as nutrients including vitamin B12 and iodine. It contains magnesium, which is important for bone development and muscle function."
+    },
+    {
+      "id": "UISJDDD",
+      "product_name": "Buffalo Milk Double Toned",
+      "price": 39.81,
+      "image_url": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/NI_CATALOG/IMAGES/CIW/2024/6/25/587a233f-d824-4ec1-b76a-58220e460b14_curd_I2VA15AN03_AL1.png",
+      "energy": "880kcal",
+      "protein": "3.7g",
+      "fat": "6.0g",
+      "nutritional_info": "Switch to Sid’s Farm’s all-new low-fat super-healthy A2 Buffalo Milk, ideal for the health-conscious or those of you who are on dietary restrictions. An easily digestible Double Toned milk fortified with vitamin A and D that has 1.5% percent fat with fewer calories as compared to whole milk. The nutrients in A2 milk build immunity & help in increasing metabolism. Also adds the extra taste to your regular cup of tea or coffee."
+    }
+  ]
+}
